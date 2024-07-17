@@ -42,6 +42,7 @@ Admin Dashboard: Login as an administrator to manage vehicles, bookings, and use
 Customer Portal: Register and login as a customer to book cars and manage your bookings.
 
 
+Screenshots 📸
 
 
 <img width="1512" alt="car_rental_7" src="https://github.com/user-attachments/assets/23f0e3b3-391b-4a9b-b470-09a180fbc7a3">
