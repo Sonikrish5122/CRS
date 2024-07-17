@@ -1,8 +1,47 @@
-Developed a comprehensive Car Rental System using PHP, MySQL, HTML,Bootstrap, CSS, and JavaScript to streamline the process of managing vehicles.
-The system efficiently manages the rental process, providing a seamless experience for both customers and administrators.
+Car Rental System 🚗
+
+A comprehensive Car Rental System developed using PHP, designed to manage car rental operations efficiently. This system includes features such as vehicle management, booking management, user authentication, and an intuitive user interface to provide a seamless experience for both administrators and customers.
 
 Admin Login User Name : Car_Rental_Admin
 Admin Login Password : carrental@123 
+  
+
+Features ✨
+Vehicle Management: Add, edit, and delete car listings with detailed information.
+Booking Management: Manage customer bookings, including rental period, vehicle assignment, and booking status.
+User Authentication: Secure login and registration for customers and administrators.
+Search Functionality: Search for available cars based on rental period and car type.
+Responsive Design: Optimized for different screen sizes to ensure a smooth experience on both desktop and mobile devices.
+
+
+Installation 🛠️
+
+
+Create a MySQL database.
+Import the provided SQL file (car_rental_system.sql) into your database.
+
+Configure the application
+
+Run the application
+
+Make sure you have a local server (e.g., XAMPP, WAMP) running.
+Place the project files in the server's root directory (e.g., htdocs for XAMPP).
+Open your web browser and navigate to http://localhost/CRS.
+
+
+Dependencies 📦
+
+PHP - The scripting language used for the backend.
+MySQL - The database management system.
+Bootstrap - For responsive UI design.
+jQuery - For dynamic front-end interactions.
+
+Usage 🚀
+
+Admin Dashboard: Login as an administrator to manage vehicles, bookings, and users.
+Customer Portal: Register and login as a customer to book cars and manage your bookings.
+
+
 
 
 <img width="1512" alt="car_rental_7" src="https://github.com/user-attachments/assets/23f0e3b3-391b-4a9b-b470-09a180fbc7a3">
